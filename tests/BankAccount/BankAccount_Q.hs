@@ -1,5 +1,6 @@
 {-# LANGUAGE TemplateHaskell, ScopedTypeVariables, CPP #-}
 
+import Data.Monoid
 import Quelea.Shim
 import Quelea.ClientMonad
 import Quelea.DBDriver
