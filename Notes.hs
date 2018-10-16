@@ -28,6 +28,7 @@ sudo lsof -i -P | grep 'PID'
 **CREATE PIPES FOR DELAY SIMULATION:
 ___________________________________
 web help: 
+http://blog.hartshorne.net/2016/04/simulating-network-delay-on-osx.html
 https://mop.koeln/blog/2015/06/01/Limiting-bandwidth-on-Mac-OS-X-yosemite/
 http://krypted.com/mac-security/a-cheat-sheet-for-using-pf-in-os-x-lion-and-up/
 http://www.hanynet.com/icefloor/index.html
